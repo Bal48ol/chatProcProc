@@ -1,0 +1,4 @@
+Sender: привет2
+Sender: exit
+Receiver: привет1
+Receiver: exit
